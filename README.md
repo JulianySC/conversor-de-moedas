@@ -18,16 +18,3 @@ Digite a moeda de destino (ex: USD, EUR, ARS): USD
 100.00 BRL = 18.75 USD
 
 ---
-
-Feito isso, salve o arquivo (`Ctrl + S`).
-
----
-
-### 3. Enviar o README.md para o GitHub
-
-No terminal do VS Code, digite:
-
-```bash
-git add README.md
-git commit -m "Adiciona README.md com instruções do projeto"
-git push
