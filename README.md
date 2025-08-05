@@ -1,6 +1,6 @@
 # Conversor de Moedas 💰
 
-Um projeto simples em Python que converte valores em Real (BRL) para outras moedas usando uma API.
+Um projeto em Python que converte valores em Real (BRL) para outras moedas usando uma API.
 
 ## Como usar
 
